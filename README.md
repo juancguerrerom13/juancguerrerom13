@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Juan Camilo Guerrero Martínez
 
 ## 🎓 About Me
-Industrial Engineering candidate at **Pontificia Universidad Javeriana** (December 2025)  
+Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)  
 📍 Based in Bogotá D.C., Colombia  
 💼 Strategic Business Analyst | Process Optimization Specialist  
 🤖 Passionate about **Hyper Automation using AI Agents** to improve automation workflows for business processes
