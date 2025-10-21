@@ -17,20 +17,28 @@ Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)
 ### Data Analysis & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Process Management
+### Process Management & ERP
 ![Bizagi Studio](https://img.shields.io/badge/Bizagi_Studio-0078D4?style=for-the-badge)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Programming & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Development Tools
-![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logoColor=white)
 
-### Automation & RPA
+### Automation - RPA - Agentic AI
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
 ![PIX RPA](https://img.shields.io/badge/PIX_RPA-00A4EF?style=for-the-badge)
@@ -43,8 +51,10 @@ Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Beekeeper](https://img.shields.io/badge/Beekeeper-FFB800?style=for-the-badge)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Cloud & Infrastructure
 ![Azure VM](https://img.shields.io/badge/Azure_VM-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -76,6 +86,7 @@ Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)
 
 ### JetBrains - Hyperskill:
 - ✅ Introduction to SQL
+- ✅ Introduction to AI Engineering with Python
 
 ## 🌍 Languages
 - 🇪🇸 **Spanish** - Native
@@ -88,8 +99,6 @@ Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-guerrero0ab86533a)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+573187233069)
 
-📍 Bogotá D.C. - Carrera 54 #58-41
-
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=juancguerrerom13&show_icons=true&theme=tokyonight)
 
@@ -101,7 +110,7 @@ Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)
 - 🔄 **RPA & APA Solutions** - Robotic and Advanced Process Automation
 - 💡 **Digital Transformation** - ERP implementation and database design
 - 📈 **Data Analysis** - Statistical modeling and decision-making support
-- 🏭 **Industrial Engineering** - Process optimization and efficiency improvement
+- 🏭 **Industrial Engineering** - Process optimization and efficiency improvement using Lean Manufacturing Philosophy & Desing Thinking
 - ⚡ **API Development** - Building scalable backend services with FastAPI
 
 ---
