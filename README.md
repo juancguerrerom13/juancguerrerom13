@@ -67,7 +67,7 @@ Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)
 **January 2025 - Currently**
 - Leading RPA projects with PIX and advancing automation towards APA through AI agents (OpenAI, Claude API, n8n)
 - Building intelligent automation workflows using LangChain and FastAPI for scalable AI solutions
-- Spearheading digital transformation by implementing ERP (Dolibarr) and designing corporate databases
+- Spearheading digital transformation by implementing ERP and designing corporate databases
 - Documenting and standardizing business processes for administrative and industrial automation
 - Conducting impact and economic benefit analyses demonstrating improvements in efficiency and cost reduction
 
