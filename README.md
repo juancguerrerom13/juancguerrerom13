@@ -1,16 +1,24 @@
-# Hi there! 👋 I'm Juan Camilo Guerrero Martínez
+# Hi there! 👋 I'm Juan Camilo Guerrero M.
 
 ## 🎓 About Me
-Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)  
-📍 Based in Bogotá D.C., Colombia  
-💼 Strategic Business Analyst | Process Optimization Specialist  
-🤖 Passionate about **Hyper Automation using AI Agents** to improve automation workflows for business processes
+Industrial Engineer from **Pontificia Universidad Javeriana** and Master's candidate in **Analytics for Business Intelligence**. I focus on data analytics and AI / machine learning models that turn corporate data into evidence for decision-making.
 
-## 💻 What I'm Working On
-- 🌱 Leading RPA and APA projects with AI agents (OpenAI API, Claude API, n8n)
-- 🔧 Implementing ERP systems and designing corporate databases
-- 📊 Conducting impact and economic benefit analyses for automation initiatives
-- 🚀 Spearheading digital transformation through intelligent process automation
+I build analytical solutions with **Python, SQL, and Power BI**, design corporate databases, and manage pipelines in **Microsoft Fabric**. I translate complex business challenges into scalable data products that deliver measurable value.
+
+## 💼 Professional Experience
+
+### BPM Consulting Analyst | Nextant
+**November 2025 - Present**
+- Drive business modernization for Microsoft through data analytics with Power BI.
+- Manage pipelines in Microsoft Fabric and build solutions in Power Platform (Power Apps, Power Automate, Dataverse).
+- Deliver scalable automated workflows and actionable insights for stakeholders.
+
+### Strategic Business Analyst | All Star Colombia S.A.S.
+**June 2025 - October 2025**
+- Led RPA and AI-driven automation projects using PIX, OpenAI API, and n8n.
+- Supported digital transformation through ERP implementation in Odoo.
+- Designed corporate databases and standardized business processes.
+- Delivered impact analyses showing measurable gains in efficiency and cost reduction.
 
 ## 🛠️ Technical Skills
 
@@ -24,75 +32,53 @@ Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### Programming & ML
+### Programming & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Development Tools
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logoColor=white)
-
-### Automation - RPA - Agentic AI
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
-![PIX RPA](https://img.shields.io/badge/PIX_RPA-00A4EF?style=for-the-badge)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge)
 
-### AI & Machine Learning Frameworks
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+### AI & Machine Learning
 ![Claude API](https://img.shields.io/badge/Claude_API-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases & Tools
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### Cloud & Infrastructure
 ![Azure VM](https://img.shields.io/badge/Azure_VM-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure IoT](https://img.shields.io/badge/Azure_IoT-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## 💼 Professional Experience
-
-### Strategic Business Analyst | All Star Colombia S.A.S.
-**January 2025 - Currently**
-- Leading RPA projects with PIX and advancing automation towards APA through AI agents (OpenAI, Claude API, n8n)
-- Building intelligent automation workflows using LangChain and FastAPI for scalable AI solutions
-- Spearheading digital transformation by implementing ERP and designing corporate databases
-- Documenting and standardizing business processes for administrative and industrial automation
-- Conducting impact and economic benefit analyses demonstrating improvements in efficiency and cost reduction
-
 ## 🎓 Complementary Training
 
 ### Platzi:
-- ✅ AI and Machine Learning Fundamentals
-- ✅ RPA and Hyperautomation with AI
-- ✅ Professional Workflows with n8n
-- ✅ Create AI Agents with MongoDB
-- ✅ Create AI Agents with LangGraph
+- AI and Machine Learning fundamentals
+- Professional Workflows with n8n
+- Create AI Agents with MongoDB
+- Create AI Agents with LangGraph
 
 ### Santander Open Academy:
-- ✅ Cursor with Python: Intelligent Development with AI
-- ✅ Digital Transformation
+- Intelligent Development with AI
+- Digital Transformation
 
 ### JetBrains - Hyperskill:
-- ✅ Introduction to SQL
-- ✅ Introduction to AI Engineering with Python
+- Introduction to SQL
+- Intro to AI Engineering with Python
 
 ## 🌍 Languages
-- 🇪🇸 **Spanish** - Native
-- 🇬🇧 **English** - C1 Level (IELTS 2018-2020)
-- 🇵🇹 **Portuguese** - Intermediate level
-- 🇯🇵 **Japanese** - Intermediate level
+- **Spanish** - Native
+- **English** - C1 Level (IELTS 2018-2020)
+- **Portuguese** - Intermediate level
+- **Japanese** - Intermediate level
 
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pacaguerrerom@hotmail.com)
@@ -105,13 +91,14 @@ Industrial Engineer from **Pontificia Universidad Javeriana** (December 2025)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juancguerrerom13&layout=compact&theme=tokyonight)
 
 ## 🎯 Areas of Expertise
-- 🤖 **Hyper Automation & AI Agents** - Building intelligent automation workflows with LangChain and multiple LLM APIs
-- 📊 **Business Process Optimization** - Industrial and administrative process improvement
-- 🔄 **RPA & APA Solutions** - Robotic and Advanced Process Automation
-- 💡 **Digital Transformation** - ERP implementation and database design
-- 📈 **Data Analysis** - Statistical modeling and decision-making support
-- 🏭 **Industrial Engineering** - Process optimization and efficiency improvement using Lean Manufacturing Philosophy & Desing Thinking
-- ⚡ **API Development** - Building scalable backend services with FastAPI
+- 🤖 **Hyper Automation & AI Agents**
+- 📊 **Business Process Optimization**
+- 🔄 **RPA & APA Solutions**
+- 💡 **Digital Transformation**
+- 📈 **Data Analysis**
+- 🏭 **Industrial Engineering**
+- ⚡ **API-Driven Automation**
 
 ---
+
 ⭐️ From [juancguerrerom13](https://github.com/juancguerrerom13) | Open to opportunities and collaborations in automation and AI!
