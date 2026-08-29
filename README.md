@@ -7,7 +7,7 @@ I build analytical solutions with **Python, SQL, and Power BI**, design corporat
 
 ## 💼 Professional Experience
 
-### BPM Consulting Analyst | Nextant
+### AI Consulting Analyst | Nextant
 **November 2025 - Present**
 - Drive business modernization for Microsoft through data analytics with Power BI.
 - Manage pipelines in Microsoft Fabric and build solutions in Power Platform (Power Apps, Power Automate, Dataverse).
